@@ -25,6 +25,6 @@ jobs:
       with:
         reporter: github-pr-review
         workdir: 'src/'
-        eslint_flags: '/eslintrc.js'
+        eslint_flags: '../eslintrc.js'
         fail_on_error: true
         level: error
