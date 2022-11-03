@@ -1,4 +1,4 @@
 let a = 1;
-a = 'a';
+var b = 3
 
 console.log(a);
