@@ -1,4 +1,2 @@
-let a = 1;
-a = 'a';
-
+const a = 1;
 console.log(a);
