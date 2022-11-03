@@ -1,4 +1,4 @@
-let a = 1;
-var b = 3
-
+const a = 1;
+const b = 2;
+let c = 3;
 console.log(a);
